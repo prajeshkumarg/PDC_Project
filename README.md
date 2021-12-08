@@ -1,4 +1,4 @@
-# Gaussian Blur Comparison on Different ParalComparison onlel Platforms (PDC PROJECT)
+# Gaussian Blur Comparison on Different Parallel Platforms (PDC PROJECT)
 
 ## Stage 1 : following compilers and libraries are required 
 ### Compilers
